@@ -17,5 +17,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 
-new repo - create
+local target file location > cmd>  follow " create a new repository on the command line steps"
 
