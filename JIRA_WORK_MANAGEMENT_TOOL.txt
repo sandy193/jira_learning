@@ -1,0 +1,143 @@
+JIRA:
+
+WORK MANAGEMENT TOOL (managing projects, bug tracking, issue tracking, the works)
+
+
+WHY JIRA:
+
+1. super popular
+2. everything you need to manage projects & teams
+3. fully customizable
+4. countless Apps to further enhance functionality.
+
+
+JIRA PLATFORMS:
+
+CLOUD, SERVER(ENDING FEB 2024), DATA CENTER
+
+
+AGILE PRINCIPLES:
+
+.Iterative development
+.Adapative to changing requirements
+.Frequent delivery
+.Close collaboration between cross-functional teams
+.SCRUM & KANBAN methodologies
+
+
+SCRUM -
+
+.Breaks projects into EPICS & USER STORIES.
+  
+EPICS - larger body of work, broken into stories
+USER STORY 0r story - smallest unit of work
+
+ "As a <type of user>, i want <some goal>, so that <some reason>"
+
+
+.user stories are prioritized
+.Development is perfoemed in short cycles, - known as SPRINTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""""""""""""""documentation PDF"""""""""""""""
+
+* projects, issues, issues types, fields, screens, workflows, configure   sprint & board permissions .
+
+
+Course Overview:
+
+1. Mapping Your Business into jira
+2. Configuring - issue types, Fields & screens
+3. Customizing workflows
+4. Configuring Board & Sprint Permissions
+5. Applying New Configuration to projects
+
+
+APPROACH:
+
+1. Discover and understand the business requirements
+2. Map requirements to jira configurations
+3. Implement in jira
+
+
+WHO DOES WHAT IN SCRUM TEAMS:
+
+PRODUCT OWNER - Creates issues, prioritizes the blocklog, runs reports
+SCRUM MASTER  - Creates and configures boards, creates sprints, runs reports.
+DEVELOPERS    - Work on issues, move issues on the board, create boards.
